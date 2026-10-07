@@ -54,7 +54,7 @@
           "patterns": [
             {
               "name": "constant.character.escape.fractch",
-              "match": "\\\\[\\\\ntr\\'\"]"
+              "match": "\\\\[\"\\\\ntr]"
             }
           ]
         },
