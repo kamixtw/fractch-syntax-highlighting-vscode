@@ -1,5 +1,5 @@
 {
-  "name": "@kamixtw/fractch-syntax-highlighting-vscode",
+  "name": "fractch-syntax-highlighting-vscode",
   "version": "1.0.0",
   "description": "A VS Code syntax highlighting extension for the Fractch DSL, by MistWarp.",
   "homepage": "https://github.com/kamixtw/fractch-syntax-highlighting-vscode#readme",
@@ -12,7 +12,6 @@
   },
   "license": "Apache-2.0",
   "author": "Kamix R",
-  "type": "module",
   "displayName": "Fractch Syntax Highlighting",
   "publisher": "kamixtw",
   "engines": {
